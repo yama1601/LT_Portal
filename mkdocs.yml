@@ -1,0 +1,38 @@
+# Project information
+site_name: My Docs
+site_description: 'サイトの紹介'
+site_author: 'site_author'
+site_url: 'http://yourSite'
+
+# Copyright
+copyright: 'Copyright (c) 2016'
+
+# Documentation and theme
+docs_dir: 'docs'
+theme: 'material'
+
+# Options
+extra:
+
+  palette:
+    primary: 'Light Blue'
+    accent: 'Orange'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
+  author:
+    github: 'github-user-name'
+    twitter: 'twitter-author'
+
+# Extensions
+# markdown_extensions:
+# - codehilite:
+#         noclasses: true
+#         pygments_style: colorful
+#         linenums: true
+# - admonition
+# - toc:
+#   permalink: '#'
