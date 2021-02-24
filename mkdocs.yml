@@ -13,9 +13,8 @@ theme: 'material'
 
 # Options
 extra:
-
   palette:
-    primary: 'Light Blue'
+    primary: 'Blue'
     accent: 'Orange'
   font:
     text: 'Roboto'
@@ -28,11 +27,11 @@ extra:
     twitter: 'twitter-author'
 
 # Extensions
-# markdown_extensions:
-# - codehilite:
-#         noclasses: true
-#         pygments_style: colorful
-#         linenums: true
-# - admonition
+markdown_extensions:
+  - codehilite:
+        noclasses: true
+        pygments_style: colorful
+        linenums: true
+  - admonition
 # - toc:
 #   permalink: '#'
