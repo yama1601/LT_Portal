@@ -34,5 +34,4 @@ extra:
 #         pygments_style: colorful
 #         linenums: true
 # - admonition
-# - toc:
 #   permalink: '#'
