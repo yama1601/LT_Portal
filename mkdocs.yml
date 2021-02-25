@@ -1,11 +1,11 @@
 # Project information
-site_name: My Docs
+site_name: LT会ポータル
 site_description: 'サイトの紹介'
-site_author: 'site_author'
+site_author: 'Daiki Kawabata'
 site_url: 'http://yourSite'
 
 # Copyright
-copyright: 'Copyright (c) 2016'
+copyright: 'Copyright (c) 2021'
 
 # Documentation and theme
 docs_dir: 'docs'
