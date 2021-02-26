@@ -1,8 +1,8 @@
 # Project information
 site_name: LT会ポータル
-site_description: 'サイトの紹介'
+site_description: 'LT会の色々'
 site_author: 'Daiki Kawabata'
-site_url: 'http://yourSite'
+site_url: 'https://kitsystemyou.github.io/test_mkdocs/'
 
 # Copyright
 copyright: 'Copyright (c) 2021'
