@@ -16,7 +16,7 @@ image:
 
 tasks:
   - init: pipenv sync --dev 
-    command: mkdocs serve
+    command: pipenv run mkdocs serve
 
 ports:
 - port: 8080
