@@ -5,8 +5,12 @@ Powered by [mkdocs.org](https://www.mkdocs.org).
 !!! Note
     工事中 🛠️
 
+
+LT 会に関するアンケート実施中です！  
+[アンケート](https://forms.gle/Hgmh9oq8v3vfYNv9A)
+
 ## サイトマップ
 
-* 過去の LT 会
-* Theme ネタ帳
-* 今後のスケジュール
+* バックナンバー: 過去の LT 会
+* 今後のスケジュール: 決まったら載せていきます
+* Theme: ネタ帳
