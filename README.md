@@ -1,11 +1,14 @@
 # LT_Portal
 
 Making Portal test
-* made docs by `Mkdocs`
+* made by `Mkdocs`
 * hosting by `github pages`
 * auto deploy mkdocs page to github pages with `Github actions`
 
 ## Edit
+* Fork this project  
+  How to fork: https://docs.github.com/ja/github/getting-started-with-github/fork-a-repo
+
 * Add page :page_facing_up:  
   Make .md file in docs/
 
@@ -13,6 +16,8 @@ Making Portal test
   Edit .md files in docs/
 
 ## Publish changes
+* Push your changes
+
 ```
 git checkout -b <branch_name>
      ~~Edit page ~~  
@@ -20,6 +25,8 @@ git add <file_name>
 git commit "Edit <file_name>"
 git push
 ```
+* Make Pull Request  
+  How to Pull Request: https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
 
 And create Pull Request for this repository.
 
