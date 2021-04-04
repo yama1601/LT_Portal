@@ -33,5 +33,5 @@ markdown_extensions:
         pygments_style: colorful
         linenums: true
   - admonition
-# - toc:
-#   permalink: '#'
+  - toc:
+    permalink: '#'
