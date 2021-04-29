@@ -10,8 +10,4 @@
 ### Presenter 🔊
 - 名前「タイトル」
 
-### Theme
-
 ### Date
-
-### Presenter
