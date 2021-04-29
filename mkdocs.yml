@@ -33,3 +33,16 @@ markdown_extensions:
         pygments_style: colorful
         linenums: true
   - admonition
+
+# pages
+pages:
+  - ようこそ ✨: 'index.md'
+  - 今後のスケジュール: 'schedules.md'
+  - バックナンバー:
+    - 第1回 LT会: 'backnumber/ltmeeting1.md'
+    - 第2回 LT会: 'backnumber/ltmeeting2.md'
+    - 第3回 LT会: 'backnumber/ltmeeting3.md'
+    - 第4回 LT会: 'backnumber/ltmeeting4.md'
+    - 第5回 LT会: 'backnumber/ltmeeting5.md'
+    - 第6回 LT会: 'backnumber/ltmeeting6.md'
+  - Theme 📢: 'theme.md'

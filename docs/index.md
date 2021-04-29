@@ -10,6 +10,6 @@ Powered by [mkdocs.org](https://www.mkdocs.org).
 
 ## サイトマップ
 
-* バックナンバー: 過去の LT 会
 * 今後のスケジュール: 決まったら載せていきます
+* バックナンバー: 過去の LT 会
 * Theme: ネタ帳

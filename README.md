@@ -10,7 +10,13 @@ Making Portal test
   How to fork: https://docs.github.com/ja/github/getting-started-with-github/fork-a-repo
 
 * Add page :page_facing_up:  
-  Make .md file in docs/
+  Make .md file in docs/  
+  and  
+  Add to `pages:` in `mkdocs.yml`
+  ```
+  pages:
+    - View_name : 'md file_name path'
+  ```
 
 * Edit page :pencil:  
   Edit .md files in docs/
