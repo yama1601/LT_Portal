@@ -33,6 +33,10 @@ markdown_extensions:
         pygments_style: colorful
         linenums: true
   - admonition
+  - fontawesome_markdown
+
+extra_css:
+  - "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"
 
 # pages
 pages:
@@ -46,3 +50,4 @@ pages:
     - 第5回 LT会: 'backnumber/ltmeeting5.md'
     - 第6回 LT会: 'backnumber/ltmeeting6.md'
   - Theme 📢: 'theme.md'
+  - ページの編集🎨: 'editpage.md'
