@@ -2,23 +2,23 @@
 ポータルの編集方法について説明します。
 
 ## 編集環境を用意する
-### GitPodを使った手順
-#### githubアカウントを作成する
-アカウントがない場合は[github](https://github.com/)でSignupする。
+### Gitpodを使った手順
+#### GitHubアカウントを作成する
+アカウントがない場合は[GitHub](https://github.com/)でSignupする。
 
-#### githubとgitpodを連携させる
-1. [gitpodのログインページ](https://gitpod.io/login/)にアクセス
-1. `Continue with GitHub` -> githubアカウントを入力して`Sign in`をクリック
+#### GitHubとGitpodを連携させる
+1. [Gitpodのログインページ](https://Gitpod.io/login/)にアクセス
+1. `Continue with GitHub` -> GitHubアカウントを入力して`Sign in`をクリック
 1. `Authorize gitpod-io`をクリック
-1. githubとgitpodの連携が完了する
+1. GitHubとGitpodの連携が完了する
 
 !!! Tip
     ブラウザによってはchrome拡張機能を入れると便利です。<br> 
     :fa-external-link: [Gitpod - Dev Environments in a Browser Tab](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki/related?hl=ja&)
 
-#### gitopodからgithubでの編集権限を付与する
-1. [gitpod.io -> 設定 -> 権限](https://gitpod.io/integrations) にアクセス
-1. 「GitHub」にマウスオーバー -> :fa-bars: `[Actions]` -> `Edit Permissions`をクリック
+#### GitpodからGitHubでの編集権限を付与する
+1. [Gitpod.io -> 設定 -> 権限](https://gitpod.io/integrations) にアクセス
+1. 「GitHub」にマウスオーバー -> :fa-ellipsis-v: `[Actions]` -> `Edit Permissions`をクリック
 1. 「public_repo」のチェックボックスにチェックを入れ、`Update Permissions`をクリック
 1. `Authorize gitpod-io`をクリック
 1. 編集権限付与が完了する
@@ -27,7 +27,7 @@
 [https://github.com/kitsystemyou/LT_Portal](https://github.com/kitsystemyou/LT_Portal)<br>
 上記リポジトリの`Fork`をクリックする。
 
-:fa-asterisk: Forkすると、自分のgithubアカウント名を含むURLパスになります
+:fa-asterisk: Forkすると、自分のGitHubアカウント名を含むURLパスになります
 
 !!! Tip
     :fa-external-link: [新人ではないがGit初心者であるエンジニアが「このリポジトリをフォークしてローカルで開発できるようにしておいて！」と言われた時にやること](https://qiita.com/sky0621/items/8b6e88f4327b42ade5d7)
@@ -37,7 +37,7 @@
 1. `Gitpod`をクリックし、workspaceを作成する
 
 :fa-asterisk: 初回起動は少し時間がかかります。<br>
-:fa-asterisk: workspaceの作成後は[gitpod.io -> workspaces](https://gitpod.io/workspaces)で確認できます。<br>
+:fa-asterisk: workspaceの作成後は[Gitpod.io -> workspaces](https://gitpod.io/workspaces)で確認できます。<br>
 :fa-asterisk: workspaceが見当たらない場合は`View All Workspaces`-> :fa-bars: `Open`をクリックすると表示される場合があります。
 
 #### GJ!編集環境が整いました。
@@ -45,7 +45,7 @@ workspaceでは「Open Port」 -> `Open Browser`などで編集のプレビュ�
 :fa-asterisk: 画面上部、もしくは :fa-bars: [Terminal]をマウスオーバーし、`New Terminal`をクリックするとターミナルが開きます<br>
 
 !!! Tip
-    :fa-external-link: [gitpod docs](https://www.gitpod.io/docs/)
+    :fa-external-link: [Gitpod docs](https://www.gitpod.io/docs/)
 
 ### GitPod を使わない手順
 {{工事中🛠️}}
