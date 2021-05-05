@@ -48,7 +48,7 @@ workspaceでは「Open Port」 -> `Open Browser`などで編集のプレビュ�
     :fa-external-link: [Gitpod docs](https://www.gitpod.io/docs/)
 
 ### GitPod を使わない手順
-{{工事中🛠️}}
+工事中🛠️(というか作るか微妙)
 
 
 ## ポータルの編集をする
